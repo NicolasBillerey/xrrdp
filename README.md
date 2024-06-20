@@ -12,9 +12,9 @@ Last modifications: Jun 18, 2024
 Part I - signature (5,5,p)
 ********************************
 
-5-curveW.m : definition of W/Q and Proposition 1.
+5-curveW.m : definition of W/Q and proof of Proposition 1.
 
-5-overQsqrt5.m : useful definitions and space computation (for Proposition 4)
+5-overQsqrt5.m : useful definitions (such as E and F over Q(sqrt5)) and space computation (for Proposition 4)
 
 5-Theorem_1.m : proof of Theorem 1 (and hence of Part (1) of Proposition 4)
 
@@ -41,7 +41,7 @@ Part II - signature (13,13,p)
 
 * Files related to the curve F:
 
-13-curveF.m : definition the elliptic curve F/Q(sqrt(13)) (this definition has been updated to match the definition of the paper; the previous code was using a different model of this curve)
+13-curveF.m : definition the elliptic curve F/Q(sqrt(13))
 
 13-curveF_elimination.m : proof of Theorem 2
 
