@@ -21,7 +21,7 @@ end for;
 
 print "";
 print "We check that the trace of Frobenius at 3 of the twist by -1 of the elliptic curve W0 is -1:"; 
-W0twisted:=EllipticCurve([0,-1,0,592,16812]);
+W0twisted:=QuadraticTwist(EllipticCurve([0,1,0,592,-16812]),-1);
 print "a3(W0^{(-1)}) =",TraceOfFrobenius(W0twisted,3);
 
 print "";

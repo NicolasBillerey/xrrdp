@@ -10,17 +10,17 @@ load "13-curveF.m";
 
 
 
-print "We acompute the integer B that appears in Theorem 1 in Freitas-Siksek's 2015 paper (JTNB).";
+print "We compute the integer B that appears in Theorem 1 in Freitas-Siksek's 2015 paper (JTNB).";
 print "";
 
 S:= {[0,0,12], [0,12,0], [12,0,0], [0,12,12], [12,0,12], [12,12,0]}; // list of possible signatures
 
-// The unit group in K
+// The unit group in K (= unique cubic subfield in Q(zeta13)))
 U,phi:=UnitGroup(K);
 
 G:=Automorphisms(K); // Automorphism group of K
 
-// This function computes the twisted norm associated to a given signatures as in Freitas-Siksek's paper
+// This function computes the twisted norm associated to a given signature as in Freitas-Siksek's paper
 function TwistedNorm(a,s);
     N:=1;
     i:=1;

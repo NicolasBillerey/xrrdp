@@ -1,7 +1,7 @@
 /*
 
-We define here the field K = Q(sqrt(5)) and all the useful functions for elimination.
-We also compute the weight-2 newforms of level 2^6 (which are used for Proposition 4) over K and define the Frey curves E/K and F/K.
+We define here the field K = Q(sqrt(5)), the elliptic curves E/K and F/K and all the useful functions for elimination.
+We also compute the weight-2 newforms of level 2^6 over K (which are used for Proposition 4).
 
 */
 
@@ -12,7 +12,6 @@ ob:=(-1 - s)/2;
 
 I2:=Factorisation(2*OK)[1,1];
 I3:=Factorisation(3*OK)[1,1];
-//I5:=Factorisation(5*OK)[1,1];
 
 // This space of forms is used in the proof of Proposition 4.
 N:=I2^6;

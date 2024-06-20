@@ -50,6 +50,8 @@ NM:=[Evaluate(c,[x1,y1]) : c in Monomials(AIn)];
 NC:=[K!(gm^(-1))(c) : c in Coefficients(AIn)];
 NAI6:=RK!(&+[NC[i]*NM[i] : i in [1..#NM]]);
 
+
+// Definition of the elliptic curve F/K
 function FreyF(a,b)
     F:=EllipticCurve([Evaluate(NAI4,[a,b]),Evaluate(NAI6,[a,b])]);
     return F;

@@ -84,7 +84,7 @@ function BoundF(forms,AuxiliaryPrimes);
                     Sf:={p : p in Sf | p notin {2,3,7,13}};
                 end if;
                 if Sf ne {} then
-                    print "Prime exponents remaining to eliminate =",Sf;
+                    print "Prime exponent(s) remaining to eliminate =",Sf;
                 end if;
             end if;
         end for;
@@ -179,7 +179,7 @@ function RefinedBoundF(f,AuxiliaryPrimes,p);
                 Sf:=Sf meet Sq;
             end if;
             if Sf ne {} then
-                print "Prime exponents remaining to eliminate =",Sf;
+                print "Prime ideal(s) remaining to eliminate =",Sf;
             end if;
         end if;
 	end for;
@@ -251,7 +251,7 @@ print "";
 
 
 
-// This will finish the case p=5 for form 13
+// This will finish the case p = 5 for form 13
 
 
 
@@ -282,36 +282,34 @@ assert #S eq 1;
 P:=Rep(S);
 print "The unique prime P above 5 which we cannot eliminate is:", P;
 assert #ResidueClassField(P) eq 5;
-// The prime P is the only prime above 5 that cannot be eliminated
 
 
 
-// We check that level raising cannot occur at q=19, so that we can only care about the mod P congruence in the case of good reduction
+print "We check that level raising cannot occur at q=19, so that we can only care about the mod P congruence in the case of good reduction.";
 Q:=Factorization(19*OK)[1,1];
 assert Valuation(HeckeEigenvalue(f13,Q)^2 - (Norm(Q) + 1)^2,P) eq 0;
-
-// We can extract mod q=19 congruences on (a,b) from the mod P congruence  
+print "Done!";
 
 
 q:=19;
 badPairs19:=[];
 factQ:=Factorisation(q*OK);
 for x,y in [0..q-1] do
-		if (x le y) and (x + y) mod q ne 0 then
-			Bxy:=0*Of13;
-			C:=FreyF(x,y);
-			for i in [1..#factQ] do
-				Q:=factQ[i,1];
-				assert LocalInformation(C,Q)[3] eq 0; 
- 				diffQ:=TraceOfFrobenius(C,Q) - HeckeEigenvalue(f13,Q);
-				Bxy:=Gcd(Bxy,diffQ*Of13);		 
-			end for;
-			assert Bxy ne 0*Of13;
-			if Valuation(Bxy,P) ne 0 then 
-              				assert Valuation(Bxy,P) gt 0;
-              				Append(~badPairs19,[x,y]); 
-              		end if;
-		end if;
+    if (x le y) and (x + y) mod q ne 0 then
+        Bxy:=0*Of13;
+        C:=FreyF(x,y);
+        for i in [1..#factQ] do
+            Q:=factQ[i,1];
+            assert LocalInformation(C,Q)[3] eq 0; 
+            diffQ:=TraceOfFrobenius(C,Q) - HeckeEigenvalue(f13,Q);
+            Bxy:=Gcd(Bxy,diffQ*Of13);		 
+        end for;
+        assert Bxy ne 0*Of13;
+        if Valuation(Bxy,P) ne 0 then 
+            assert Valuation(Bxy,P) gt 0;
+            Append(~badPairs19,[x,y]); 
+        end if;
+    end if;
 end for;
 print "";
 print "The pairs (a,b) mod 19 that make refined elimination fail mod P are ";
@@ -327,7 +325,7 @@ badPairs19;
 
 print "We now compute the differences between the traces of Frobenius at 19 of E = E(a,b) and E(1,-1) for (a,b) in the list.";
 
-{(TraceOfFrobenius(FreyE(pr[1],pr[2],1),19*OF) - TraceOfFrobenius(FreyE(1,-1,1),19*OF)) : pr in badPairs19};
+{(TraceOfFrobenius(FreyE(pr[1],pr[2]),19*OF) - TraceOfFrobenius(FreyE(1,-1),19*OF)) : pr in badPairs19};
 assert 0 notin $1; 
 print "We observe that 0 is not in the previous list, completing the proof.";
 

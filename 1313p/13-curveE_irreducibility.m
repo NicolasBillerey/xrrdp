@@ -6,10 +6,9 @@ See Proposition 8 p. 8667 in the published version of the paper.
 
 */
 
-
 load "13-curveE.m";
 
-P<X>:=PolynomialRing(Integers());
+P<x>:=PolynomialRing(Integers());
 
 print "We apply Theorem 1 in Freitas-Siksek's 2015 paper (JTNB) using q = 3 and 17.";
 print "";
@@ -58,7 +57,7 @@ for q in [3,17] do
 
     for a,b in [0..(q-1)] do 
         if (a le b) and ([a,b] ne [0,0]) then
-            C:=FreyE(a,b,1); 
+            C:=FreyE(a,b); 
             locQ1:=LocalInformation(C,q1);
             locQ2:=LocalInformation(C,q2);
             assert locQ1[3] eq 0 and locQ2[3] eq 0; // The curve E has good reduction at both primes above q
@@ -66,7 +65,7 @@ for q in [3,17] do
         end if;
     end for;
 
-    Append(~factors,PrimeDivisors(Lcm([Gcd([Resultant(X^2 - tr[i]*X + q, X^12 - 1) : i in [1,2]]) : tr in tracesq])));
+    Append(~factors,PrimeDivisors(Lcm([Gcd([Resultant(x^2 - tr[i]*x + q, x^12 - 1) : i in [1,2]]) : tr in tracesq])));
 end for;
 
 //assert #factors eq 2;
@@ -85,7 +84,7 @@ Q2:=Factorisation(3*OF)[2,1];
 traces3:=[];
 for a,b in [0..2] do 
   if (a le b) and ([a,b] ne [0,0]) then
-	C:=FreyE(a,b,1); 
+	C:=FreyE(a,b); 
         locQ1:=LocalInformation(C,Q1);
         locQ2:=LocalInformation(C,Q2);
         print "If a, b (mod 3) =",a,",",b,"then (aQ1(E(a,b), aQ2(E(a,b))) = ",[TraceOfFrobenius(C,Q1),TraceOfFrobenius(C,Q2)];
@@ -93,7 +92,6 @@ for a,b in [0..2] do
         Append(~traces3,[TraceOfFrobenius(C,Q1),TraceOfFrobenius(C,Q2)]);
    end if;
 end for;
-//traces3;
 
 traces3:=SetToSequence(Set(traces3));
 
@@ -102,17 +100,15 @@ print "(X^2 - aQ1(E(a,b))X + 3 (mod p), X^2 - aQ1(E(a,b))X + 3 (mod p)) for p = 
 print "are irreducible.";
 
 for p in [5,7,13] do
-    //print "Dealing with p =",p;
     Py<y>:=PolynomialRing(GF(p));
     for tr in traces3 do
         print "Dealing with p =",p,"and traces =",tr;
-        //[#Factorisation(y^2 - tr[i]*y + 3) : i in [1,2]];
         [IsIrreducible(y^2 - tr[i]*y + 3) : i in [1,2]];
     end for;
 end for;
 
 print "This shows that the mod p representation attached to E is also irreducible for p = 5,7,13 except in the case p = 5 and trace of Frobenius at 3 equal to [-1,1].";
-print "Since if 3 | a + b, we have traces [-3,-1] the result follows.";
+print "Since if 3 | a + b, we have traces [-3,-1]. The result follows.";
 
 print "This proves Proposition 8.";
 
