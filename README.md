@@ -1,6 +1,6 @@
 # A multi-Frey approach to Fermat equations of signature (r,r,p)
 
-!!!CAREFUL WORK IN PROGRESS!!!
+!!!CAREFUL: WORK IN PROGRESS!!!
 
 Electronic resources for the paper `A multi-Frey approach to Fermat equations of signature (r,r,p)' (Trans. Amer. Math. Soc. 371 (2019), no. 12, 8651--8677 and its arXiv post-publication revised version <a href="https://arxiv.org/abs/1703.06530">) by Nicolas Billerey, Imin Chen, Luis Dieulefait, and Nuno Freitas.
 
