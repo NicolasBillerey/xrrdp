@@ -31,7 +31,7 @@ Part II - signature (13,13,p)
 
 13-curveE.m : definition the elliptic curve E/Q(sqrt(13)) (this definition has been updated to match the definition of the paper; the previous code was using a different model of this curve)
 
-13-curveE_elimination_large_level_first_approach.m : proof of Proposition 9 in the "large" level case using precomputation of newforms at that level 2^4*w^2 (using files 13-curveE_Newforms_large_level.out and 13-curveE_PrimeIdeals.out)
+13-curveE_elimination_large_level_first_approach.m : proof of Proposition 9 in the "large" level case using precomputation of newforms at that level 2^4*w^2 (from files 13-curveE_Newforms_large_level.out and 13-curveE_PrimeIdeals.out)
 
 13-curveE_elimination_large_level_second_approach.m : proof of Proposition 9 in the "large" level case using classical elimination (STILL COMPUTING!)
 
