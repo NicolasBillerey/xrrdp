@@ -6,6 +6,9 @@ This file contains the computations to prove Proposition 9 for the level 2^4w^2.
 
 load "13-curveE.m";
 
+I2:=Factorisation(2*OF)[1,1];
+I13:=Factorisation(13*OF)[1,1];
+
 
 N42:=I2^4*I13^2;
 
