@@ -4,8 +4,6 @@ We define the elliptic curve E/Q(sqrt(13)) (as in p. 8666 in the published versi
 
 */
 
-load "13-fieldQsqrt13.m";
-
 L<z13>:=CyclotomicField(13); // Here z13 denotes a primitive 13-th root of unity
 RL:=PolynomialRing(L,2);
 FL<x,y>:=FieldOfFractions(RL);
@@ -33,11 +31,12 @@ E:=EllipticCurve(X^3 + a4*X + a6); // The elliptic curve E (but defined over L =
 AI:=aInvariants(E); // Coefficients of E
 
 
-/*
+
 // The field F = Q(sqrt(13)) (i.e., the unique quadratic subfield in Q(zeta_13))
 F<w>:=QuadraticField(13);
 OF:=Integers(F);
-*/
+
+
 
 RF<x1,y1>:=PolynomialRing(F,2);
 _,gm:=IsSubfield(F,L);
@@ -124,7 +123,7 @@ function BoundE(forms,AuxiliaryPrimes);
                     Sf:={p : p in Sf | p notin {2,3,13}};
                 end if;
                 if Sf ne {} then
-                    print "Prime exponents remaining to eliminate =",Sf;
+                    print "Prime exponent(s) remaining to eliminate =",Sf;
                 end if;
             end if;
         end for;
