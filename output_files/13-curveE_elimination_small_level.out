@@ -1,13 +1,10 @@
-Magma V2.28-3     Fri Jun 21 2024 08:47:23 on nicolas-Latitude-E5420 [Seed = 
-4209622312]
+Magma V2.28-9     Fri Jun 21 2024 14:46:23 on nicolas-Latitude-E5420 [Seed = 2542045087]
 Type ? for help.  Type <Ctrl>-D to quit.
 
 Loading file "13-curveE_elimination_small_level.m"
 Loading "13-curveE.m"
-Loading "13-fieldQsqrt13.m"
-ORDER_IS_SUBFIELD: special root
 Computing newforms of level 2^3*w^2. Space of dimension 581
-Time: 627.650
+Time: 544.960
 ...done!
 There are 94 newforms to eliminate.
 Performing standard elimination for 94 form(s) with set of auxiliary primes [ 3,
@@ -749,7 +746,6 @@ This completes the proof of Proposition 9 for the level 2^3*w^2.
 
 We now check Remark 7.4.
 Let g be the form not eliminated for p = 7
-ORDER_IS_SUBFIELD: special root
 
 Do the traces at Q of g and E(1,-1) match mod P7' for Q of norm up to 5000?
 false

@@ -1,11 +1,8 @@
-Magma V2.28-3     Fri Jun 21 2024 08:47:54 on nicolas-Latitude-E5420 [Seed = 
-3535902432]
+Magma V2.28-9     Fri Jun 21 2024 14:14:37 on nicolas-Latitude-E5420 [Seed = 624307585]
 Type ? for help.  Type <Ctrl>-D to quit.
 
 Loading file "13-curveE_irreducibility.m"
 Loading "13-curveE.m"
-Loading "13-fieldQsqrt13.m"
-ORDER_IS_SUBFIELD: special root
 We apply Theorem 1 in Freitas-Siksek's 2015 paper (JTNB) using q = 3 and 17.
 
 The integer B for the number field Q(sqrt(13)) from Theorem 1 in Freitas-Siksek 

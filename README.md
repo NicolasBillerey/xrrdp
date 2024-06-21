@@ -31,13 +31,19 @@ Part II - signature (13,13,p)
 
 13-curveE.m : definition the elliptic curve E/Q(sqrt(13)) (this definition has been updated to match the definition of the paper; the previous code was using a different model of this curve)
 
-13-curveE_elimination_small_level.m : proof of Proposition 9 (in the "small" level case)
+13-curveE_elimination_large_level_first_approach.m : proof of Proposition 9 in the "large" level case using precomputation of newforms at that level 2^4*w^2 (using files 13-curveE_Newforms_large_level.out and 13-curveE_PrimeIdeals.out)
 
-13-curveE_elimination_large_level.m : proof of Proposition 9 (in the "large" level case)
+13-curveE_elimination_large_level_second_approach.m : proof of Proposition 9 in the "large" level case using classical elimination (STILL COMPUTING!)
+
+13-curveE_elimination_small_level.m : proof of Proposition 9 in the "small" level case using classical elimination
 
 13-curveE_inertia.m : proof of (part (B) of) Theorem 7
 
 13-curveE_irreducibility.m : proof of Proposition 8
+
+13-curveE_Newforms_large_level.m: compute the list of coefficients of forms of level 2^4*w^2 and store them in 13-curveE_Newforms_large_level.out (DOES NOT WORK WELL)
+
+13-curveE_PrimesIdeals.m: compute a list of prime ideals of Q(sqrt(13)) of norm up to 200 and store them in the file 13-curveE_PrimeIdeals.out.
 
 * Files related to the curve F:
 
