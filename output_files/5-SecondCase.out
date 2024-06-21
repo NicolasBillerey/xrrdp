@@ -1,0 +1,65 @@
+Magma V2.28-3     Fri Jun 21 2024 08:42:18 on nicolas-Latitude-E5420 [Seed = 
+4260281119]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "5-SecondCase.m"
+***********
+There are 2 forms of level 50
+The elliptic curve corresponding to the form no 1 has no rational 2-torsion 
+point.
+We have a3 = 1 and a7 = 2
+
+The elliptic curve corresponding to the form no 2 has no rational 2-torsion 
+point.
+We have a3 = -1 and a7 = -2
+
+***********
+There are 5 forms of level 200
+The elliptic curve corresponding to the form no 1 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 2 has no rational 2-torsion 
+point.
+We have a3 = -3 and a7 = 2
+
+The elliptic curve corresponding to the form no 3 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 4 has no rational 2-torsion 
+point.
+We have a3 = 3 and a7 = -2
+
+The elliptic curve corresponding to the form no 5 has a rational 2-torsion 
+point.
+
+***********
+There are 8 forms of level 400
+The elliptic curve corresponding to the form no 1 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 2 has no rational 2-torsion 
+point.
+We have a3 = -3 and a7 = 2
+
+The elliptic curve corresponding to the form no 3 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 4 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 5 has no rational 2-torsion 
+point.
+We have a3 = 3 and a7 = -2
+
+The elliptic curve corresponding to the form no 6 has no rational 2-torsion 
+point.
+We have a3 = 1 and a7 = 2
+
+The elliptic curve corresponding to the form no 7 has a rational 2-torsion 
+point.
+
+The elliptic curve corresponding to the form no 8 has no rational 2-torsion 
+point.
+We have a3 = -1 and a7 = -2
+
+This proves Theorem 3.

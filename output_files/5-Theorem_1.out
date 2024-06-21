@@ -1,0 +1,355 @@
+Magma V2.28-3     Fri Jun 21 2024 08:42:31 on nicolas-Latitude-E5420 [Seed = 
+3319169850]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "5-Theorem_1.m"
+Loading "5-overQsqrt5.m"
+Computing newforms over Q(sqrt(5)) of weight 2 and level 2^6...
+...done!
+We apply standard elimination with auxiliary primes 3, 7, 11, 17, and 29 in the 
+case 5 does not divide a + b and p >= 7 using E:
+Performing standard elimination for 39 form(s) with set of auxiliary primes [ 3,
+7, 11, 17, 29 ]
+
+Checking form no 1
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 1 is eliminated
+*************************************************************
+
+Checking form no 2
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 2 is eliminated
+*************************************************************
+
+Checking form no 3
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 3 is eliminated
+*************************************************************
+
+Checking form no 4
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 4 is eliminated
+*************************************************************
+
+Checking form no 5
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 5 is eliminated
+*************************************************************
+
+Checking form no 6
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 6 is eliminated
+*************************************************************
+
+Checking form no 7
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 7 is eliminated
+*************************************************************
+
+Checking form no 8
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 8 is eliminated
+*************************************************************
+
+Checking form no 9
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 9 is eliminated
+*************************************************************
+
+Checking form no 10
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 10 is eliminated
+*************************************************************
+
+Checking form no 11
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 11 is eliminated
+*************************************************************
+
+Checking form no 12
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 12 is eliminated
+*************************************************************
+
+Checking form no 13
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 13 is eliminated
+*************************************************************
+
+Checking form no 14
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 14 is eliminated
+*************************************************************
+
+Checking form no 15
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 15 is eliminated
+*************************************************************
+
+Checking form no 16
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 16 is eliminated
+*************************************************************
+
+Checking form no 17
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 17 not eliminated for large enough p
+*************************************************************
+
+Checking form no 18
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 18 not eliminated for large enough p
+*************************************************************
+
+Checking form no 19
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 19 not eliminated for large enough p
+*************************************************************
+
+Checking form no 20
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 20 is eliminated
+*************************************************************
+
+Checking form no 21
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 21 not eliminated for large enough p
+*************************************************************
+
+Checking form no 22
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 22 is eliminated
+*************************************************************
+
+Checking form no 23
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 23 not eliminated for large enough p
+*************************************************************
+
+Checking form no 24
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 17
+Dealing with q = 29
+Form no 24 not eliminated for large enough p
+*************************************************************
+
+Checking form no 25
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 25 is eliminated
+*************************************************************
+
+Checking form no 26
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 26 is eliminated
+*************************************************************
+
+Checking form no 27
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 27 is eliminated
+*************************************************************
+
+Checking form no 28
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 28 is eliminated
+*************************************************************
+
+Checking form no 29
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 29 is eliminated
+*************************************************************
+
+Checking form no 30
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7, 13 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7, 13 }
+Dealing with q = 17
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Form no 30 is eliminated
+*************************************************************
+
+Checking form no 31
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 31 is eliminated
+*************************************************************
+
+Checking form no 32
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 32 is eliminated
+*************************************************************
+
+Checking form no 33
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 33 is eliminated
+*************************************************************
+
+Checking form no 34
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 34 is eliminated
+*************************************************************
+
+Checking form no 35
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 35 is eliminated
+*************************************************************
+
+Checking form no 36
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 36 is eliminated
+*************************************************************
+
+Checking form no 37
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 37 is eliminated
+*************************************************************
+
+Checking form no 38
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 38 is eliminated
+*************************************************************
+
+Checking form no 39
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 39 is eliminated
+*************************************************************
+
+Done!
+There are 6 forms not eliminated.
+
+We check that these remaining forms correspond to the twists of Frey curves 
+attached to trivial solutions as stated.
+Done!
+This proves part (1) of Proposition 4.
+
+We finally prove Proposition 5: the traces of Frobenius at 3 is 4 for each 
+elliptic curve E(x,y)^{(d)} that appears in Proposition 4.
+Done!
+Together with Proposition 1 (using W/Q), this proves Theorem 1.

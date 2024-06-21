@@ -1,0 +1,52 @@
+Magma V2.28-3     Fri Jun 21 2024 08:47:37 on nicolas-Latitude-E5420 [Seed = 
+3235087584]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "13-curveE_inertia.m"
+Loading "13-curveE.m"
+Loading "13-fieldQsqrt13.m"
+ORDER_IS_SUBFIELD: special root
+Choice of 3-torsion point whose coordinates (x,y) satisfy:
+$.1^4 + (702*w - 3510)*$.1^2 + (-32994*w + 135486)*$.1 + 410670*w - 1560546
+Adjoining y-coordinate: y^2 + -x^3 + (-351*w + 1755)*x + 1/2*(16497*w - 67743)
+Degree of M over F = 8
+
+There is a unique prime above 2 in M.
+
+It is totally ramified (with ramification index 8). We call it Q'.
+
+We display below a, b (within {1,..8}, not both even and such that 4 does not 
+divide a + b), the valuation of the conductor of E(a,b) base changed to M at Q' 
+and the Kodaira Symbol.
+a = 1 b = 1 val = 12 Kodaira type II*
+a = 1 b = 2 val = 12 Kodaira type II*
+a = 1 b = 4 val = 4 Kodaira type I0*
+a = 1 b = 5 val = 12 Kodaira type II*
+a = 1 b = 6 val = 12 Kodaira type II*
+a = 1 b = 8 val = 4 Kodaira type I0*
+a = 2 b = 3 val = 12 Kodaira type II*
+a = 2 b = 5 val = 12 Kodaira type II*
+a = 2 b = 7 val = 12 Kodaira type II*
+a = 3 b = 3 val = 12 Kodaira type II*
+a = 3 b = 4 val = 4 Kodaira type I0*
+a = 3 b = 6 val = 12 Kodaira type II*
+a = 3 b = 7 val = 12 Kodaira type II*
+a = 3 b = 8 val = 4 Kodaira type I0*
+a = 4 b = 5 val = 4 Kodaira type I0*
+a = 4 b = 7 val = 4 Kodaira type I0*
+a = 5 b = 5 val = 12 Kodaira type II*
+a = 5 b = 6 val = 12 Kodaira type II*
+a = 5 b = 8 val = 4 Kodaira type I0*
+a = 6 b = 7 val = 12 Kodaira type II*
+a = 7 b = 7 val = 12 Kodaira type II*
+a = 7 b = 8 val = 4 Kodaira type I0*
+
+The valuation of the conductor of E(a,b) at Q' belongs to:
+{ 4, 12 }
+We check that the conductor exponent of Z = E(1,-1) base changed to M at the 
+unique prime ideal Q' of M above 2 is 2.
+Done!
+This proves Theorem 7.
+In addition, we check that the full 3-division field of Z = E(1,-1) has degree 
+48 over Q(sqrt{13}).
+Done!

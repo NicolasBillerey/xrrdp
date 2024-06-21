@@ -1,0 +1,560 @@
+Magma V2.28-3     Fri Jun 21 2024 08:42:48 on nicolas-Latitude-E5420 [Seed = 
+3586560789]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "5-Theorems_5_and_6.m"
+Loading "5-overQsqrt5.m"
+Computing newforms over Q(sqrt(5)) of weight 2 and level 2^6...
+...done!
+We prove Theorem 5.
+
+We apply standard elimination with auxiliary primes 3, 7, 11, and 29 in the case
+5 does not divide a + b and p >= 7 using F:
+(We note that only 3 and 7 are useful for p >= 11.)
+Performing standard elimination for 39 form(s) with set of auxiliary primes [ 3,
+7, 11, 29 ]
+
+Checking form no 1
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 1 is eliminated
+*************************************************************
+
+Checking form no 2
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 2 is eliminated
+*************************************************************
+
+Checking form no 3
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 3 is eliminated
+*************************************************************
+
+Checking form no 4
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 4 is eliminated
+*************************************************************
+
+Checking form no 5
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 5 is eliminated
+*************************************************************
+
+Checking form no 6
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 6 is eliminated
+*************************************************************
+
+Checking form no 7
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 7 is eliminated
+*************************************************************
+
+Checking form no 8
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 8 is eliminated
+*************************************************************
+
+Checking form no 9
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 9 is eliminated
+*************************************************************
+
+Checking form no 10
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 10 is eliminated
+*************************************************************
+
+Checking form no 11
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 11 is eliminated
+*************************************************************
+
+Checking form no 12
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 12 is eliminated
+*************************************************************
+
+Checking form no 13
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 13 is eliminated
+*************************************************************
+
+Checking form no 14
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 14 is eliminated
+*************************************************************
+
+Checking form no 15
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 15 is eliminated
+*************************************************************
+
+Checking form no 16
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 16 is eliminated
+*************************************************************
+
+Checking form no 17
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Prime exponents remaining to eliminate = { 7 }
+Form no 17
+with coefficient field : Rational Field
+is not eliminated for prime(s) : { 7 }
+*************************************************************
+
+Checking form no 18
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Prime exponents remaining to eliminate = { 7 }
+Form no 18
+with coefficient field : Rational Field
+is not eliminated for prime(s) : { 7 }
+*************************************************************
+
+Checking form no 19
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 29
+Form no 19 not eliminated for large enough p
+*************************************************************
+
+Checking form no 20
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 20 is eliminated
+*************************************************************
+
+Checking form no 21
+
+Dealing with q = 3
+Dealing with q = 7
+Dealing with q = 11
+Dealing with q = 29
+Form no 21 not eliminated for large enough p
+*************************************************************
+
+Checking form no 22
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 22 is eliminated
+*************************************************************
+
+Checking form no 23
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Prime exponents remaining to eliminate = { 7 }
+Form no 23
+with coefficient field : Rational Field
+is not eliminated for prime(s) : { 7 }
+*************************************************************
+
+Checking form no 24
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Prime exponents remaining to eliminate = { 7 }
+Form no 24
+with coefficient field : Rational Field
+is not eliminated for prime(s) : { 7 }
+*************************************************************
+
+Checking form no 25
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 25 is eliminated
+*************************************************************
+
+Checking form no 26
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 26 is eliminated
+*************************************************************
+
+Checking form no 27
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 27 is eliminated
+*************************************************************
+
+Checking form no 28
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 28 is eliminated
+*************************************************************
+
+Checking form no 29
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 29 is eliminated
+*************************************************************
+
+Checking form no 30
+
+Dealing with q = 3
+Dealing with q = 7
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 29
+Form no 30 is eliminated
+*************************************************************
+
+Checking form no 31
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 31 is eliminated
+*************************************************************
+
+Checking form no 32
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 32 is eliminated
+*************************************************************
+
+Checking form no 33
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 33 is eliminated
+*************************************************************
+
+Checking form no 34
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 34 is eliminated
+*************************************************************
+
+Checking form no 35
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Form no 35 is eliminated
+*************************************************************
+
+Checking form no 36
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 36 is eliminated
+*************************************************************
+
+Checking form no 37
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 37 is eliminated
+*************************************************************
+
+Checking form no 38
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 38 is eliminated
+*************************************************************
+
+Checking form no 39
+
+Dealing with q = 3
+This form can be eliminated for large enough p !
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 7
+Prime exponents remaining to eliminate = { 7 }
+Dealing with q = 11
+Form no 39 is eliminated
+*************************************************************
+
+Done!
+There are 2 forms which are not eliminated (for any p) and four other forms 
+which are eliminated only for p >= 11.
+
+We check that the two forms which are not eliminated correspond to twists of 
+Frey curves F/Q(sqrt(5)) attached to trivial solutions.
+
+Done!
+This proves part (2) of Proposition 4.
+
+We check that the trace of Frobenius at 3 of these six newforms is 4.
+Done!
+Therefore, since F = F_{a,b} has good reduction at 3, we have a_3(F) = 4 (mod 
+p).
+We now compute the trace of Frobenius at 3 of F_{a,b}:
+a = 0 b = 1 Trace of F at 3 = -2
+a = 0 b = 2 Trace of F at 3 = -2
+a = 1 b = 0 Trace of F at 3 = -2
+a = 1 b = 1 Trace of F at 3 = 6
+a = 1 b = 2 Trace of F at 3 = 4
+a = 2 b = 0 Trace of F at 3 = -2
+a = 2 b = 1 Trace of F at 3 = 4
+a = 2 b = 2 Trace of F at 3 = 6
+We see that F has trace 4 at 3 iff 3 | a +b.
+According to Lemma 1, this implies that W/Q has mutliplicative reduction at 3.
+Moreover, its mod p representation arises in level 2^4*5^2, 2^3*5^2, or 2*5^2.
+
+Modular forms in these levels all correspond to (isogeny classes of) elliptic 
+curves over Q.
+We check that precisely 4 of them have trace of Frobenius at 3 which is -3 or 
++3.
+Finally, we also show that these four elliptic curves have potentially good 
+reduction at 5 and that the valuation of their minimal discriminant at 5 is 2 or
+8:
+Potentially good reduction at 5? true Valuation of minimal disc at 5 = 2
+Potentially good reduction at 5? true Valuation of minimal disc at 5 = 8
+Potentially good reduction at 5? true Valuation of minimal disc at 5 = 8
+Potentially good reduction at 5? true Valuation of minimal disc at 5 = 2
+
+This proves Theorem 5.
+
+We now prove Theorem 6.
+We denote by s a squareroot of 5.
+*********************
+Working with a = 1 b = 1 d = 1
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 8
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^2 + (-s + 3)*$.1 - 1
+Defining polynomial for the y-coordinate: y^2 + (s - 5)*x - s - 1
+Degree over Q(sqrt5) of the field M generated by x and y is: 4
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 8 Kodaira type I0*
+a = 3 b = 5 val = 8 Kodaira type I0*
+a = 5 b = 3 val = 8 Kodaira type I0*
+a = 7 b = 1 val = 8 Kodaira type I0*
+
+*********************
+Working with a = 1 b = 1 d = 2
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 8
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^2 + (-2*s + 6)*$.1 - 4
+Defining polynomial for the y-coordinate: y^2 + (4*s - 20)*x - 8*s - 8
+Degree over Q(sqrt5) of the field M generated by x and y is: 4
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 4 Kodaira type II*
+a = 3 b = 5 val = 4 Kodaira type II*
+a = 5 b = 3 val = 4 Kodaira type II*
+a = 7 b = 1 val = 4 Kodaira type II*
+
+*********************
+Working with a = 1 b = 0 d = 1
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 48
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^4 + 8/3*$.1^3 + (s + 1)*$.1^2 + 
+    1/6*(-s - 3)
+Defining polynomial for the y-coordinate: y^2 + -x^3 - 2*x^2 + 1/2*(-s - 1)*x
+Degree over Q(sqrt5) of the field M generated by x and y is: 8
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 8 Kodaira type I0*
+a = 3 b = 5 val = 8 Kodaira type I0*
+a = 5 b = 3 val = 8 Kodaira type I0*
+a = 7 b = 1 val = 8 Kodaira type I0*
+
+*********************
+Working with a = 1 b = 0 d = -1
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 48
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^4 - 8/3*$.1^3 + (s + 1)*$.1^2 + 
+    1/6*(-s - 3)
+Defining polynomial for the y-coordinate: y^2 + -x^3 + 2*x^2 + 1/2*(-s - 1)*x
+Degree over Q(sqrt5) of the field M generated by x and y is: 8
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 8 Kodaira type I0*
+a = 3 b = 5 val = 8 Kodaira type I0*
+a = 5 b = 3 val = 8 Kodaira type I0*
+a = 7 b = 1 val = 8 Kodaira type I0*
+
+*********************
+Working with a = 1 b = 0 d = 2
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 48
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^4 + 16/3*$.1^3 + (4*s + 4)*$.1^2 +
+    1/3*(-8*s - 24)
+Defining polynomial for the y-coordinate: y^2 - x^3 - 4*x^2 + (-2*s - 2)*x
+Degree over Q(sqrt5) of the field M generated by x and y is: 8
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 12 Kodaira type II
+a = 3 b = 5 val = 12 Kodaira type II
+a = 5 b = 3 val = 12 Kodaira type II
+a = 7 b = 1 val = 12 Kodaira type II
+
+*********************
+Working with a = 1 b = 0 d = -2
+The degree of the 3-division field of Z = E_{a,b}^{(d)} is 48
+We choose a 3-torsion point whose coordinates (x,y) satisfy:
+Defining polynomial for the x-coordinate: $.1^4 - 16/3*$.1^3 + (4*s + 4)*$.1^2 +
+    1/3*(-8*s - 24)
+Defining polynomial for the y-coordinate: y^2 - x^3 + 4*x^2 + (-2*s - 2)*x
+Degree over Q(sqrt5) of the field M generated by x and y is: 8
+
+There is a unique prime above 2 in M.
+
+It is totally ramified. We call it Q'.
+
+The elliptic curve Z = E(a,b)^{(d)} has good reduction over M.
+
+We display below a, b (within {1,..8}, not both even and such that 8 divides a +
+b), the valuation of the conductor of E(a,b) base changed to M at Q' and the 
+Kodaira Symbol.
+a = 1 b = 7 val = 12 Kodaira type II
+a = 3 b = 5 val = 12 Kodaira type II
+a = 5 b = 3 val = 12 Kodaira type II
+a = 7 b = 1 val = 12 Kodaira type II
+
+This proves Proposition 6 and hence Theorem 6.

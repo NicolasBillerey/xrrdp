@@ -1,0 +1,381 @@
+Magma V2.28-3     Fri Jun 21 2024 08:48:12 on nicolas-Latitude-E5420 [Seed = 
+975797792]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "13-curveF_elimination.m"
+Loading "13-curveF.m"
+ORDER_IS_SUBFIELD: special root
+Loading "13-curveE.m"
+Loading "13-fieldQsqrt13.m"
+ORDER_IS_SUBFIELD: special root
+Computing newforms of level Q2*Q3*Q13. Space of dimension 181
+Time: 8.210
+...done!
+There are 15 newforms to eliminate.
+
+We run standard elimination for the 15 newforms at level Q2*Q3*Q13 using 
+auxilliary primes 5,7,11,17 and 31:
+Performing standard elimination for 15 form(s) with set of auxiliary primes [ 5,
+7, 11, 17, 31 ]
+
+Checking form no 1
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Form no 1 is eliminated
+*************************************************************
+
+Checking form no 2
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 7
+Form no 2 is eliminated
+*************************************************************
+
+Checking form no 3
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Form no 3 is eliminated
+*************************************************************
+
+Checking form no 4
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Form no 4 is eliminated
+*************************************************************
+
+Checking form no 5
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 29 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Form no 5 is eliminated
+*************************************************************
+
+Checking form no 6
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 29, 277, 709 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 5 }
+Form no 6
+with coefficient field : Number Field with defining polynomial x^6 + 2*x^5 - 
+    15*x^4 - 42*x^3 + 9*x^2 + 92*x + 53 over the Rational Field
+is not eliminated for prime(s) : { 5 }
+*************************************************************
+
+Checking form no 7
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 6569, 60089 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Form no 7 is eliminated
+*************************************************************
+
+Checking form no 8
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 53, 4530017, 8182271 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Form no 8 is eliminated
+*************************************************************
+
+Checking form no 9
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 113, 157, 24107, 16032416513 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 5 }
+Form no 9
+with coefficient field : Number Field with defining polynomial x^15 - 40*x^13 + 
+    19*x^12 + 614*x^11 - 525*x^10 - 4510*x^9 + 5131*x^8 + 16443*x^7 - 22622*x^6 
+    - 26814*x^5 + 45081*x^4 + 10298*x^3 - 31929*x^2 + 9384*x - 755 over the 
+Rational Field
+is not eliminated for prime(s) : { 5 }
+*************************************************************
+
+Checking form no 10
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 29, 151, 241, 230189, 
+262445021411 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5, 29 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5, 29 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 5 }
+Form no 10
+with coefficient field : Number Field with defining polynomial x^18 - 6*x^17 - 
+    29*x^16 + 216*x^15 + 194*x^14 - 2530*x^13 - 46*x^12 + 13316*x^11 - 2430*x^10
+    - 33230*x^9 + 5054*x^8 + 35456*x^7 - 4854*x^6 - 16234*x^5 + 2422*x^4 + 
+    2736*x^3 - 463*x^2 - 72*x - 1 over the Rational Field
+is not eliminated for prime(s) : { 5 }
+*************************************************************
+
+Checking form no 11
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 11, 1579, 103769, 64881823, 
+5206178167 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 11 }
+Form no 11
+with coefficient field : Number Field with defining polynomial x^18 + 6*x^17 - 
+    25*x^16 - 206*x^15 + 82*x^14 + 2476*x^13 + 2182*x^12 - 11830*x^11 - 
+    18754*x^10 + 17078*x^9 + 40280*x^8 - 2166*x^7 - 26546*x^6 - 6052*x^5 + 
+    3730*x^4 + 878*x^3 - 111*x^2 - 12*x + 1 over the Rational Field
+is not eliminated for prime(s) : { 11 }
+*************************************************************
+
+Checking form no 12
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 433, 1307, 16871, 75029, 
+8387059987 }
+Dealing with q = 7
+Form no 12 is eliminated
+*************************************************************
+
+Checking form no 13
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 47, 223, 271, 14033, 177790247, 
+712479111797 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 5 }
+Form no 13
+with coefficient field : Number Field with defining polynomial x^24 + 11*x^23 - 
+    12*x^22 - 521*x^21 - 975*x^20 + 9391*x^19 + 31067*x^18 - 78679*x^17 - 
+    399899*x^16 + 254560*x^15 + 2799236*x^14 + 658080*x^13 - 11508276*x^12 - 
+    8702186*x^11 + 27783974*x^10 + 32131952*x^9 - 36492333*x^8 - 59085883*x^7 + 
+    19489992*x^6 + 55398253*x^5 + 4059547*x^4 - 23556489*x^3 - 6858245*x^2 + 
+    3073723*x + 1204211 over the Rational Field
+is not eliminated for prime(s) : { 5 }
+*************************************************************
+
+Checking form no 14
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 43, 239, 852004540243, 
+54242763008189501 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 5, 43 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 5, 43 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 5 }
+Dealing with q = 31
+Form no 14 is eliminated
+*************************************************************
+
+Checking form no 15
+
+Dealing with q = 5
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate = { 5, 11, 431, 2851, 3733, 34439, 
+59009, 4026353, 52370573209 }
+Dealing with q = 7
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 11
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 17
+Prime exponent(s) remaining to eliminate = { 11 }
+Dealing with q = 31
+Prime exponent(s) remaining to eliminate = { 11 }
+Form no 15
+with coefficient field : Number Field with defining polynomial x^27 + x^26 - 
+    96*x^25 - 103*x^24 + 4015*x^23 + 4555*x^22 - 96239*x^21 - 114087*x^20 + 
+    1463919*x^19 + 1796340*x^18 - 14784708*x^17 - 18648384*x^16 + 100773048*x^15
+    + 130093264*x^14 - 461577652*x^13 - 609107976*x^12 + 1385753413*x^11 + 
+    1874873753*x^10 - 2586414408*x^9 - 3627086405*x^8 + 2705123989*x^7 + 
+    4058323937*x^6 - 1242620797*x^5 - 2235026797*x^4 + 48851499*x^3 + 
+    413017570*x^2 + 54264584*x + 1800472 over the Rational Field
+is not eliminated for prime(s) : { 11 }
+*************************************************************
+
+
+The primes p = 5 survives for forms no 6, 9, 10, 13.
+The primes p = 11 survives for forms no 6, 9, 10, 13 and 11, 15 respectively.
+
+We use refined elimination to deal with these remaining forms/exponents
+
+Dealing with form no 6 and exponent 5:
+Performing refined elimination to eliminate exponent 5 with set of auxiliary 
+primes [ 47 ]
+
+Dealing with q = 47
+The form is eliminated
+*************************************************************
+
+
+Dealing with form no 9 and exponent 5:
+Performing refined elimination to eliminate exponent 5 with set of auxiliary 
+primes [ 31 ]
+
+Dealing with q = 31
+The form is eliminated
+*************************************************************
+
+
+Dealing with form no 10 and exponent 5:
+Performing refined elimination to eliminate exponent 5 with set of auxiliary 
+primes [ 47 ]
+
+Dealing with q = 47
+The form is eliminated
+*************************************************************
+
+
+We have discarded exponent 5 for all forms, except for form no 13.
+
+
+Dealing with form no 11 and exponent 11:
+Performing refined elimination to eliminate exponent 11 with set of auxiliary 
+primes [ 5 ]
+
+Dealing with q = 5
+The form is eliminated
+*************************************************************
+
+
+Dealing with form no 15 and exponent 11:
+Performing refined elimination to eliminate exponent 11 with set of auxiliary 
+primes [ 5 ]
+
+Dealing with q = 5
+The form is eliminated
+*************************************************************
+
+
+We have discarded exponent 11 for all forms.
+
+
+This proves Theorem 2, except for p = 5 (form no 13 isn't eliminated for p = 5).
+
+
+The unique pair (f,p) which is not eliminated is the pair (f,p) = (form no 13, 
+5).
+We deal with this case.
+
+Using refined elimination with q = 11, 31 we check there is a unique prime ideal
+P above 5 which survives.
+The size of the residue fields of the primes in Qf13 above 5 are:
+[ 125, 125, 5, 125, 125, 5, 125, 5 ]
+The unique prime P above 5 which we cannot eliminate is: Prime Ideal of Of13
+Two element generators:
+    [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    [3, 1, 3, 3, 3, 0, 1, 4, 2, 0, 1, 2, 3, 0, 3, 1, 0, 1, 4, 0, 2, 2, 0, 4]
+We check that level raising cannot occur at q=19, so that we can only care about
+the mod P congruence in the case of good reduction.
+Done!
+
+The pairs (a,b) mod 19 that make refined elimination fail mod P are 
+[
+    [ 1, 1 ],
+    [ 1, 7 ],
+    [ 1, 11 ],
+    [ 2, 2 ],
+    [ 2, 3 ],
+    [ 2, 14 ],
+    [ 3, 3 ],
+    [ 3, 14 ],
+    [ 4, 4 ],
+    [ 4, 6 ],
+    [ 4, 9 ],
+    [ 5, 5 ],
+    [ 5, 16 ],
+    [ 5, 17 ],
+    [ 6, 6 ],
+    [ 6, 9 ],
+    [ 7, 7 ],
+    [ 7, 11 ],
+    [ 8, 8 ],
+    [ 8, 12 ],
+    [ 8, 18 ],
+    [ 9, 9 ],
+    [ 10, 10 ],
+    [ 10, 13 ],
+    [ 10, 15 ],
+    [ 11, 11 ],
+    [ 12, 12 ],
+    [ 12, 18 ],
+    [ 13, 13 ],
+    [ 13, 15 ],
+    [ 14, 14 ],
+    [ 15, 15 ],
+    [ 16, 16 ],
+    [ 16, 17 ],
+    [ 17, 17 ],
+    [ 18, 18 ]
+]
+We now compute the differences between the traces of Frobenius at 19 of E = 
+E(a,b) and E(1,-1) for (a,b) in the list.
+{ -22, -14 }
+We observe that 0 is not in the previous list, completing the proof.
