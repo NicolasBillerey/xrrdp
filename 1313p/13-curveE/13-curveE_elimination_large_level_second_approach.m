@@ -21,7 +21,7 @@ print "There are",#forms42,"newforms to eliminate.";
 BoundE(forms42, [3, 17, 23, 29, 43]);
 
 
-print "We now check the remaining form at the level 2^4*w^2 (i.e. when s=4 in Lemma 7) corresponds to E(1,1) by comparing Hecke coefficients at primes of norm up to 200:";
+print "We now check the remaining form at the level 2^4*w^2 (i.e. when s = 4 in Lemma 7) corresponds to E(1,1) by comparing Hecke coefficients at primes of norm up to 200:";
 W0:=FreyE(1,1);
 print {HeckeEigenvalue(forms42[67],Q) - TraceOfFrobenius(W0,Q) : Q in PrimesUpTo(200,F) | Valuation(N42,Q) eq 0} eq {0};
 print "Done!";
