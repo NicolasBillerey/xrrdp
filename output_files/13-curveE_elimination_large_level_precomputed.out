@@ -1,7 +1,7 @@
 Magma V2.28-9     Thu Jun 27 2024 11:15:23 on nicolas-Latitude-E5420 [Seed = 2408891770]
 Type ? for help.  Type <Ctrl>-D to quit.
 
-Loading file "13-curveE_elimination_large_level_first_precomputed.m"
+Loading file "13-curveE_elimination_large_level_precomputed.m"
 Loading "../13-curveE.m"
 Loading "13-curveE_PrimeIdeals.out"
 Loading "13-curveE_Newforms_large_level.out"
