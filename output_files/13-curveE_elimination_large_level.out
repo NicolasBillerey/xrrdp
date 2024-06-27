@@ -1,7 +1,7 @@
 Magma V2.28-9     Fri Jun 21 2024 17:37:30 on erable   [Seed = 841072668]
 Type ? for help.  Type <Ctrl>-D to quit.
 
-Loading file "13-curveE_elimination_large_level_second_approach.m"
+Loading file "13-curveE_elimination_large_level.m"
 Loading "13-curveE.m"
 Computing newforms of level 2^4*w^2. Space of dimension 2325
 Time: 300822.650
@@ -3192,13 +3192,9 @@ This form can be eliminated for large enough p !
 Form no 426 is eliminated
 *************************************************************
 
-We now check the remaining form at the level 2^4*w^2 (i.e. when s=4 in Lemma 7) 
+We now check the remaining form at the level 2^4*w^2 (i.e. when s = 4 in Lemma 7) 
 corresponds to E(1,1) by comparing Hecke coefficients at primes of norm up to 
 200:
 true
 Done!
 This finishes the proof of Proposition 9 in the large level case.
-4
-5
-426
-4

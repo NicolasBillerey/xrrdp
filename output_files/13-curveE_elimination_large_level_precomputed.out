@@ -1,0 +1,2339 @@
+Magma V2.28-9     Thu Jun 27 2024 11:15:23 on nicolas-Latitude-E5420 [Seed = 2408891770]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "13-curveE_elimination_large_level_first_precomputed.m"
+Loading "../13-curveE.m"
+Loading "13-curveE_PrimeIdeals.out"
+Loading "13-curveE_Newforms_large_level.out"
+We eliminate the forms at larger level 2^4*w^2 (s = 4). There are 426 forms to eliminate.
+************** Dealing with form no 1 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 1 eliminated!
+************** Dealing with form no 2 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 2 eliminated!
+************** Dealing with form no 3 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 3 eliminated!
+************** Dealing with form no 4 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 4 eliminated!
+************** Dealing with form no 5 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 5 eliminated!
+************** Dealing with form no 6 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 6 eliminated!
+************** Dealing with form no 7 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 7 eliminated!
+************** Dealing with form no 8 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 8 eliminated!
+************** Dealing with form no 9 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 9 eliminated!
+************** Dealing with form no 10 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 10 eliminated!
+************** Dealing with form no 11 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 11 eliminated!
+************** Dealing with form no 12 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 12 eliminated!
+************** Dealing with form no 13 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 13 eliminated!
+************** Dealing with form no 14 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 14 eliminated!
+************** Dealing with form no 15 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 15 eliminated!
+************** Dealing with form no 16 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 16 eliminated!
+************** Dealing with form no 17 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 17 eliminated!
+************** Dealing with form no 18 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 18 eliminated!
+************** Dealing with form no 19 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 19 eliminated!
+************** Dealing with form no 20 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 20 eliminated!
+************** Dealing with form no 21 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 21 eliminated!
+************** Dealing with form no 22 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 22 eliminated!
+************** Dealing with form no 23 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 23 eliminated!
+************** Dealing with form no 24 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 24 eliminated!
+************** Dealing with form no 25 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 25 eliminated!
+************** Dealing with form no 26 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 26 eliminated!
+************** Dealing with form no 27 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 27 eliminated!
+************** Dealing with form no 28 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 28 eliminated!
+************** Dealing with form no 29 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 29 eliminated!
+************** Dealing with form no 30 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 30 eliminated!
+************** Dealing with form no 31 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 31 eliminated!
+************** Dealing with form no 32 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 32 eliminated!
+************** Dealing with form no 33 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 33 eliminated!
+************** Dealing with form no 34 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 34 eliminated!
+************** Dealing with form no 35 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 35 eliminated!
+************** Dealing with form no 36 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 36 eliminated!
+************** Dealing with form no 37 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 37 eliminated!
+************** Dealing with form no 38 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 38 eliminated!
+************** Dealing with form no 39 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 39 eliminated!
+************** Dealing with form no 40 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 40 eliminated!
+************** Dealing with form no 41 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 41 eliminated!
+************** Dealing with form no 42 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 42 eliminated!
+************** Dealing with form no 43 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 43 eliminated!
+************** Dealing with form no 44 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 44 eliminated!
+************** Dealing with form no 45 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 45 eliminated!
+************** Dealing with form no 46 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 46 eliminated!
+************** Dealing with form no 47 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 47 eliminated!
+************** Dealing with form no 48 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 48 eliminated!
+************** Dealing with form no 49 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 49 eliminated!
+************** Dealing with form no 50 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 50 eliminated!
+************** Dealing with form no 51 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 51 eliminated!
+************** Dealing with form no 52 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 52 eliminated!
+************** Dealing with form no 53 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 53 eliminated!
+************** Dealing with form no 54 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 54 eliminated!
+************** Dealing with form no 55 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 55 eliminated!
+************** Dealing with form no 56 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 56 eliminated!
+************** Dealing with form no 57 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 57 eliminated!
+************** Dealing with form no 58 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 58 eliminated!
+************** Dealing with form no 59 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 59 eliminated!
+************** Dealing with form no 60 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 60 eliminated!
+************** Dealing with form no 61 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 61 eliminated!
+************** Dealing with form no 62 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 62 eliminated!
+************** Dealing with form no 63 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 63 eliminated!
+************** Dealing with form no 64 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 64 eliminated!
+************** Dealing with form no 65 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 65 eliminated!
+************** Dealing with form no 66 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 66 eliminated!
+************** Dealing with form no 67 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+Dealing with auxiliary prime q = 23
+Dealing with auxiliary prime q = 29
+Dealing with auxiliary prime q = 43
+Dealing with auxiliary prime q = 61
+Form no 67 not eliminated!
+************** Dealing with form no 68 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 68 eliminated!
+************** Dealing with form no 69 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 69 eliminated!
+************** Dealing with form no 70 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 70 eliminated!
+************** Dealing with form no 71 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 71 eliminated!
+************** Dealing with form no 72 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 72 eliminated!
+************** Dealing with form no 73 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 73 eliminated!
+************** Dealing with form no 74 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 74 eliminated!
+************** Dealing with form no 75 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 75 eliminated!
+************** Dealing with form no 76 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 76 eliminated!
+************** Dealing with form no 77 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 77 eliminated!
+************** Dealing with form no 78 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 78 eliminated!
+************** Dealing with form no 79 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 79 eliminated!
+************** Dealing with form no 80 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 80 eliminated!
+************** Dealing with form no 81 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 81 eliminated!
+************** Dealing with form no 82 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Dealing with auxiliary prime q = 29
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 82 eliminated!
+************** Dealing with form no 83 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 83 eliminated!
+************** Dealing with form no 84 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 84 eliminated!
+************** Dealing with form no 85 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 85 eliminated!
+************** Dealing with form no 86 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+Dealing with auxiliary prime q = 23
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 23 }
+Dealing with auxiliary prime q = 29
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 86 eliminated!
+************** Dealing with form no 87 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: {}
+Form no 87 eliminated!
+************** Dealing with form no 88 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 88 eliminated!
+************** Dealing with form no 89 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 89 eliminated!
+************** Dealing with form no 90 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 90 eliminated!
+************** Dealing with form no 91 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 91 eliminated!
+************** Dealing with form no 92 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 92 eliminated!
+************** Dealing with form no 93 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 93 eliminated!
+************** Dealing with form no 94 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 94 eliminated!
+************** Dealing with form no 95 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 95 eliminated!
+************** Dealing with form no 96 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 96 eliminated!
+************** Dealing with form no 97 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 97 eliminated!
+************** Dealing with form no 98 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 98 eliminated!
+************** Dealing with form no 99 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 99 eliminated!
+************** Dealing with form no 100 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 100 eliminated!
+************** Dealing with form no 101 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 101 eliminated!
+************** Dealing with form no 102 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 102 eliminated!
+************** Dealing with form no 103 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 103 eliminated!
+************** Dealing with form no 104 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 104 eliminated!
+************** Dealing with form no 105 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 105 eliminated!
+************** Dealing with form no 106 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 106 eliminated!
+************** Dealing with form no 107 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 107 eliminated!
+************** Dealing with form no 108 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 108 eliminated!
+************** Dealing with form no 109 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 109 eliminated!
+************** Dealing with form no 110 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 110 eliminated!
+************** Dealing with form no 111 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 111 eliminated!
+************** Dealing with form no 112 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 112 eliminated!
+************** Dealing with form no 113 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5, 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 113 eliminated!
+************** Dealing with form no 114 *************
+Dealing with auxiliary prime q = 3
+Dealing with auxiliary prime q = 17
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 17 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 114 eliminated!
+************** Dealing with form no 115 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 115 eliminated!
+************** Dealing with form no 116 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 116 eliminated!
+************** Dealing with form no 117 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 117 eliminated!
+************** Dealing with form no 118 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 118 eliminated!
+************** Dealing with form no 119 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 119 eliminated!
+************** Dealing with form no 120 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 120 eliminated!
+************** Dealing with form no 121 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 121 eliminated!
+************** Dealing with form no 122 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 122 eliminated!
+************** Dealing with form no 123 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 123 eliminated!
+************** Dealing with form no 124 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 124 eliminated!
+************** Dealing with form no 125 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 125 eliminated!
+************** Dealing with form no 126 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 126 eliminated!
+************** Dealing with form no 127 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 127 eliminated!
+************** Dealing with form no 128 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 128 eliminated!
+************** Dealing with form no 129 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 129 eliminated!
+************** Dealing with form no 130 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 130 eliminated!
+************** Dealing with form no 131 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 131 eliminated!
+************** Dealing with form no 132 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 132 eliminated!
+************** Dealing with form no 133 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 133 eliminated!
+************** Dealing with form no 134 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 134 eliminated!
+************** Dealing with form no 135 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 135 eliminated!
+************** Dealing with form no 136 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 136 eliminated!
+************** Dealing with form no 137 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 137 eliminated!
+************** Dealing with form no 138 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 138 eliminated!
+************** Dealing with form no 139 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 139 eliminated!
+************** Dealing with form no 140 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 140 eliminated!
+************** Dealing with form no 141 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 141 eliminated!
+************** Dealing with form no 142 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 142 eliminated!
+************** Dealing with form no 143 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 143 eliminated!
+************** Dealing with form no 144 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 144 eliminated!
+************** Dealing with form no 145 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 145 eliminated!
+************** Dealing with form no 146 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 146 eliminated!
+************** Dealing with form no 147 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 147 eliminated!
+************** Dealing with form no 148 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 148 eliminated!
+************** Dealing with form no 149 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 149 eliminated!
+************** Dealing with form no 150 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 150 eliminated!
+************** Dealing with form no 151 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 151 eliminated!
+************** Dealing with form no 152 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 152 eliminated!
+************** Dealing with form no 153 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 153 eliminated!
+************** Dealing with form no 154 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 154 eliminated!
+************** Dealing with form no 155 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 155 eliminated!
+************** Dealing with form no 156 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 156 eliminated!
+************** Dealing with form no 157 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 157 eliminated!
+************** Dealing with form no 158 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 158 eliminated!
+************** Dealing with form no 159 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 159 eliminated!
+************** Dealing with form no 160 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 160 eliminated!
+************** Dealing with form no 161 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 161 eliminated!
+************** Dealing with form no 162 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 162 eliminated!
+************** Dealing with form no 163 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 163 eliminated!
+************** Dealing with form no 164 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 164 eliminated!
+************** Dealing with form no 165 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 165 eliminated!
+************** Dealing with form no 166 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 166 eliminated!
+************** Dealing with form no 167 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 167 eliminated!
+************** Dealing with form no 168 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 168 eliminated!
+************** Dealing with form no 169 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 169 eliminated!
+************** Dealing with form no 170 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 170 eliminated!
+************** Dealing with form no 171 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 171 eliminated!
+************** Dealing with form no 172 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 172 eliminated!
+************** Dealing with form no 173 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 173 eliminated!
+************** Dealing with form no 174 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 174 eliminated!
+************** Dealing with form no 175 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 175 eliminated!
+************** Dealing with form no 176 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 176 eliminated!
+************** Dealing with form no 177 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 177 eliminated!
+************** Dealing with form no 178 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 178 eliminated!
+************** Dealing with form no 179 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 179 eliminated!
+************** Dealing with form no 180 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 180 eliminated!
+************** Dealing with form no 181 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 181 eliminated!
+************** Dealing with form no 182 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 182 eliminated!
+************** Dealing with form no 183 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 183 eliminated!
+************** Dealing with form no 184 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 184 eliminated!
+************** Dealing with form no 185 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 185 eliminated!
+************** Dealing with form no 186 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 43
+Prime exponent(s) remaining to eliminate: {}
+Form no 186 eliminated!
+************** Dealing with form no 187 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 187 eliminated!
+************** Dealing with form no 188 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 188 eliminated!
+************** Dealing with form no 189 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 189 eliminated!
+************** Dealing with form no 190 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 190 eliminated!
+************** Dealing with form no 191 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 191 eliminated!
+************** Dealing with form no 192 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 192 eliminated!
+************** Dealing with form no 193 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 193 eliminated!
+************** Dealing with form no 194 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 194 eliminated!
+************** Dealing with form no 195 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 195 eliminated!
+************** Dealing with form no 196 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 196 eliminated!
+************** Dealing with form no 197 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 197 eliminated!
+************** Dealing with form no 198 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 198 eliminated!
+************** Dealing with form no 199 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 199 eliminated!
+************** Dealing with form no 200 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 200 eliminated!
+************** Dealing with form no 201 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 201 eliminated!
+************** Dealing with form no 202 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 202 eliminated!
+************** Dealing with form no 203 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 203 eliminated!
+************** Dealing with form no 204 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 204 eliminated!
+************** Dealing with form no 205 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 205 eliminated!
+************** Dealing with form no 206 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 206 eliminated!
+************** Dealing with form no 207 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 207 eliminated!
+************** Dealing with form no 208 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 208 eliminated!
+************** Dealing with form no 209 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 209 eliminated!
+************** Dealing with form no 210 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 210 eliminated!
+************** Dealing with form no 211 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 211 eliminated!
+************** Dealing with form no 212 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 212 eliminated!
+************** Dealing with form no 213 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 213 eliminated!
+************** Dealing with form no 214 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 214 eliminated!
+************** Dealing with form no 215 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 215 eliminated!
+************** Dealing with form no 216 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 216 eliminated!
+************** Dealing with form no 217 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 217 eliminated!
+************** Dealing with form no 218 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 218 eliminated!
+************** Dealing with form no 219 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 219 eliminated!
+************** Dealing with form no 220 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 220 eliminated!
+************** Dealing with form no 221 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 221 eliminated!
+************** Dealing with form no 222 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 222 eliminated!
+************** Dealing with form no 223 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 223 eliminated!
+************** Dealing with form no 224 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 224 eliminated!
+************** Dealing with form no 225 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 225 eliminated!
+************** Dealing with form no 226 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 226 eliminated!
+************** Dealing with form no 227 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 227 eliminated!
+************** Dealing with form no 228 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 228 eliminated!
+************** Dealing with form no 229 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 229 eliminated!
+************** Dealing with form no 230 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 230 eliminated!
+************** Dealing with form no 231 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 231 eliminated!
+************** Dealing with form no 232 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 232 eliminated!
+************** Dealing with form no 233 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 233 eliminated!
+************** Dealing with form no 234 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 234 eliminated!
+************** Dealing with form no 235 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 235 eliminated!
+************** Dealing with form no 236 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 236 eliminated!
+************** Dealing with form no 237 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 237 eliminated!
+************** Dealing with form no 238 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 238 eliminated!
+************** Dealing with form no 239 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 239 eliminated!
+************** Dealing with form no 240 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 240 eliminated!
+************** Dealing with form no 241 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 241 eliminated!
+************** Dealing with form no 242 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 242 eliminated!
+************** Dealing with form no 243 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 243 eliminated!
+************** Dealing with form no 244 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 244 eliminated!
+************** Dealing with form no 245 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 245 eliminated!
+************** Dealing with form no 246 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 246 eliminated!
+************** Dealing with form no 247 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 247 eliminated!
+************** Dealing with form no 248 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 7 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 248 eliminated!
+************** Dealing with form no 249 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 249 eliminated!
+************** Dealing with form no 250 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 250 eliminated!
+************** Dealing with form no 251 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 251 eliminated!
+************** Dealing with form no 252 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 252 eliminated!
+************** Dealing with form no 253 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 253 eliminated!
+************** Dealing with form no 254 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 254 eliminated!
+************** Dealing with form no 255 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 255 eliminated!
+************** Dealing with form no 256 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 256 eliminated!
+************** Dealing with form no 257 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 257 eliminated!
+************** Dealing with form no 258 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 258 eliminated!
+************** Dealing with form no 259 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 19 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 259 eliminated!
+************** Dealing with form no 260 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 260 eliminated!
+************** Dealing with form no 261 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 261 eliminated!
+************** Dealing with form no 262 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 262 eliminated!
+************** Dealing with form no 263 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 263 eliminated!
+************** Dealing with form no 264 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 264 eliminated!
+************** Dealing with form no 265 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 265 eliminated!
+************** Dealing with form no 266 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 266 eliminated!
+************** Dealing with form no 267 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 11 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 11 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: { 11 }
+Dealing with auxiliary prime q = 29
+Prime exponent(s) remaining to eliminate: {}
+Form no 267 eliminated!
+************** Dealing with form no 268 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 268 eliminated!
+************** Dealing with form no 269 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 269 eliminated!
+************** Dealing with form no 270 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 270 eliminated!
+************** Dealing with form no 271 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 19 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 271 eliminated!
+************** Dealing with form no 272 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 272 eliminated!
+************** Dealing with form no 273 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 273 eliminated!
+************** Dealing with form no 274 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 274 eliminated!
+************** Dealing with form no 275 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 275 eliminated!
+************** Dealing with form no 276 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 276 eliminated!
+************** Dealing with form no 277 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 277 eliminated!
+************** Dealing with form no 278 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 278 eliminated!
+************** Dealing with form no 279 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 11 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 279 eliminated!
+************** Dealing with form no 280 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 280 eliminated!
+************** Dealing with form no 281 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 281 eliminated!
+************** Dealing with form no 282 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 282 eliminated!
+************** Dealing with form no 283 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 283 eliminated!
+************** Dealing with form no 284 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 284 eliminated!
+************** Dealing with form no 285 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 285 eliminated!
+************** Dealing with form no 286 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 286 eliminated!
+************** Dealing with form no 287 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 287 eliminated!
+************** Dealing with form no 288 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 288 eliminated!
+************** Dealing with form no 289 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 289 eliminated!
+************** Dealing with form no 290 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 290 eliminated!
+************** Dealing with form no 291 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 291 eliminated!
+************** Dealing with form no 292 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 292 eliminated!
+************** Dealing with form no 293 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 293 eliminated!
+************** Dealing with form no 294 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 294 eliminated!
+************** Dealing with form no 295 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 295 eliminated!
+************** Dealing with form no 296 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 296 eliminated!
+************** Dealing with form no 297 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 297 eliminated!
+************** Dealing with form no 298 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 298 eliminated!
+************** Dealing with form no 299 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 299 eliminated!
+************** Dealing with form no 300 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 300 eliminated!
+************** Dealing with form no 301 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 301 eliminated!
+************** Dealing with form no 302 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 302 eliminated!
+************** Dealing with form no 303 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 303 eliminated!
+************** Dealing with form no 304 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 304 eliminated!
+************** Dealing with form no 305 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 305 eliminated!
+************** Dealing with form no 306 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 306 eliminated!
+************** Dealing with form no 307 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 307 eliminated!
+************** Dealing with form no 308 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 308 eliminated!
+************** Dealing with form no 309 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 309 eliminated!
+************** Dealing with form no 310 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 310 eliminated!
+************** Dealing with form no 311 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 71 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 311 eliminated!
+************** Dealing with form no 312 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 312 eliminated!
+************** Dealing with form no 313 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 71 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 313 eliminated!
+************** Dealing with form no 314 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 314 eliminated!
+************** Dealing with form no 315 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 315 eliminated!
+************** Dealing with form no 316 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 316 eliminated!
+************** Dealing with form no 317 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 317 eliminated!
+************** Dealing with form no 318 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 318 eliminated!
+************** Dealing with form no 319 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 319 eliminated!
+************** Dealing with form no 320 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 320 eliminated!
+************** Dealing with form no 321 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 321 eliminated!
+************** Dealing with form no 322 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 322 eliminated!
+************** Dealing with form no 323 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 323 eliminated!
+************** Dealing with form no 324 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 324 eliminated!
+************** Dealing with form no 325 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 325 eliminated!
+************** Dealing with form no 326 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 326 eliminated!
+************** Dealing with form no 327 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 327 eliminated!
+************** Dealing with form no 328 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 439 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 328 eliminated!
+************** Dealing with form no 329 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 191 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 329 eliminated!
+************** Dealing with form no 330 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 330 eliminated!
+************** Dealing with form no 331 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 331 eliminated!
+************** Dealing with form no 332 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 332 eliminated!
+************** Dealing with form no 333 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 333 eliminated!
+************** Dealing with form no 334 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 334 eliminated!
+************** Dealing with form no 335 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 335 eliminated!
+************** Dealing with form no 336 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 336 eliminated!
+************** Dealing with form no 337 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 337 eliminated!
+************** Dealing with form no 338 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 5 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 338 eliminated!
+************** Dealing with form no 339 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 339 eliminated!
+************** Dealing with form no 340 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 340 eliminated!
+************** Dealing with form no 341 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 341 eliminated!
+************** Dealing with form no 342 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 342 eliminated!
+************** Dealing with form no 343 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 343 eliminated!
+************** Dealing with form no 344 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 344 eliminated!
+************** Dealing with form no 345 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 345 eliminated!
+************** Dealing with form no 346 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 346 eliminated!
+************** Dealing with form no 347 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 347 eliminated!
+************** Dealing with form no 348 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 348 eliminated!
+************** Dealing with form no 349 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 349 eliminated!
+************** Dealing with form no 350 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 350 eliminated!
+************** Dealing with form no 351 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 351 eliminated!
+************** Dealing with form no 352 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 352 eliminated!
+************** Dealing with form no 353 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 353 eliminated!
+************** Dealing with form no 354 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 354 eliminated!
+************** Dealing with form no 355 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 355 eliminated!
+************** Dealing with form no 356 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 251 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 356 eliminated!
+************** Dealing with form no 357 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 357 eliminated!
+************** Dealing with form no 358 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 358 eliminated!
+************** Dealing with form no 359 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 359 eliminated!
+************** Dealing with form no 360 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 360 eliminated!
+************** Dealing with form no 361 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 251 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 361 eliminated!
+************** Dealing with form no 362 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 362 eliminated!
+************** Dealing with form no 363 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 363 eliminated!
+************** Dealing with form no 364 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 364 eliminated!
+************** Dealing with form no 365 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 365 eliminated!
+************** Dealing with form no 366 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 366 eliminated!
+************** Dealing with form no 367 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 367 eliminated!
+************** Dealing with form no 368 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 368 eliminated!
+************** Dealing with form no 369 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 369 eliminated!
+************** Dealing with form no 370 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 370 eliminated!
+************** Dealing with form no 371 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 371 eliminated!
+************** Dealing with form no 372 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 372 eliminated!
+************** Dealing with form no 373 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 373 eliminated!
+************** Dealing with form no 374 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 23 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 374 eliminated!
+************** Dealing with form no 375 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 1511 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 375 eliminated!
+************** Dealing with form no 376 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 376 eliminated!
+************** Dealing with form no 377 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 377 eliminated!
+************** Dealing with form no 378 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 378 eliminated!
+************** Dealing with form no 379 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 23 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 379 eliminated!
+************** Dealing with form no 380 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 380 eliminated!
+************** Dealing with form no 381 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 381 eliminated!
+************** Dealing with form no 382 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 13649 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 382 eliminated!
+************** Dealing with form no 383 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 383 eliminated!
+************** Dealing with form no 384 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 384 eliminated!
+************** Dealing with form no 385 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 385 eliminated!
+************** Dealing with form no 386 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 386 eliminated!
+************** Dealing with form no 387 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 387 eliminated!
+************** Dealing with form no 388 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 388 eliminated!
+************** Dealing with form no 389 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 389 eliminated!
+************** Dealing with form no 390 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 390 eliminated!
+************** Dealing with form no 391 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 391 eliminated!
+************** Dealing with form no 392 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 13649 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 392 eliminated!
+************** Dealing with form no 393 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 393 eliminated!
+************** Dealing with form no 394 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 394 eliminated!
+************** Dealing with form no 395 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: { 29 }
+Dealing with auxiliary prime q = 23
+Prime exponent(s) remaining to eliminate: {}
+Form no 395 eliminated!
+************** Dealing with form no 396 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 23 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 396 eliminated!
+************** Dealing with form no 397 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 397 eliminated!
+************** Dealing with form no 398 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 398 eliminated!
+************** Dealing with form no 399 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 399 eliminated!
+************** Dealing with form no 400 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 400 eliminated!
+************** Dealing with form no 401 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 401 eliminated!
+************** Dealing with form no 402 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 1511 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 402 eliminated!
+************** Dealing with form no 403 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: { 23 }
+Dealing with auxiliary prime q = 17
+Prime exponent(s) remaining to eliminate: {}
+Form no 403 eliminated!
+************** Dealing with form no 404 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 404 eliminated!
+************** Dealing with form no 405 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 405 eliminated!
+************** Dealing with form no 406 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 406 eliminated!
+************** Dealing with form no 407 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 407 eliminated!
+************** Dealing with form no 408 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 408 eliminated!
+************** Dealing with form no 409 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 409 eliminated!
+************** Dealing with form no 410 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 410 eliminated!
+************** Dealing with form no 411 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 411 eliminated!
+************** Dealing with form no 412 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 412 eliminated!
+************** Dealing with form no 413 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 413 eliminated!
+************** Dealing with form no 414 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 414 eliminated!
+************** Dealing with form no 415 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 415 eliminated!
+************** Dealing with form no 416 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 416 eliminated!
+************** Dealing with form no 417 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 417 eliminated!
+************** Dealing with form no 418 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 418 eliminated!
+************** Dealing with form no 419 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 419 eliminated!
+************** Dealing with form no 420 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 420 eliminated!
+************** Dealing with form no 421 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 421 eliminated!
+************** Dealing with form no 422 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 422 eliminated!
+************** Dealing with form no 423 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 423 eliminated!
+************** Dealing with form no 424 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 424 eliminated!
+************** Dealing with form no 425 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 425 eliminated!
+************** Dealing with form no 426 *************
+Dealing with auxiliary prime q = 3
+This form can be eliminated for large enough p !
+Prime exponent(s) remaining to eliminate: {}
+Form no 426 eliminated!
+Done!
++++++++++++++++++++++++++++++++++++++++
+The surviving form at level 2^4*w^2 (s = 4) corresponds to (1,1).
++++++++++++++++++++++++++++++++++++++++
+This proves Proposition 9 in the 'large' level 2^4*w^2.

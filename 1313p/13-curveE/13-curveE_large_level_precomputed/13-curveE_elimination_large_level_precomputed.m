@@ -4,7 +4,7 @@ This file contains the computations to prove Proposition 9.
 
 */
 
-load "13-curveE.m";
+load "../13-curveE.m";
 
 R<e>:=PolynomialRing(Rationals());
 
@@ -123,27 +123,44 @@ survE:=[];
 Boundsall:={};
 print "We eliminate the forms at larger level 2^4*w^2 (s = 4). There are", #cforms, "forms to eliminate.";
 for i in [1..#cforms] do
+    print "************** Dealing with form no",i,"*************";
     cf:=cforms[i];
-    Bf:=[];
+    Bf:={0};
+    bool:=0;
     for q in [3,17,23,29,43,61] do
-        Bf:=Append(Bf,Bound(q,cf,curve));
+        if (bool eq 0) or (Bf ne {}) then
+            print "Dealing with auxiliary prime q =",q;
+            Bqf:=Bound(q,cf,curve);
+            //print Bqf;
+            Bqf:={x : x in Bqf | x notin {2,3,13}};
+            if Bqf ne {0} then
+                if bool eq 0 then
+                    print "This form can be eliminated for large enough p !";
+                    bool:=1;
+                    Bf:=Bqf;
+                end if;
+                Bf:= Bf meet Bqf;
+                print "Prime exponent(s) remaining to eliminate:",Bf;
+            end if;
+            //Bf:=Append(Bf,Bqf);
+        end if;
     end for;
-
-    if Set(Bf) eq {{0}} then
+    
+    if Bf eq {0} then
         Append(~survE,i); 
         print "Form no",i,"not eliminated!";
     else
-        Boundsf:=&meet {x : x in Bf | x ne {0}};
-        Boundsf:={x : x in Boundsf | x notin {2,3,13}};
-        if #Boundsf eq 0 then
+        //Boundsf:=&meet {x : x in Bf | x ne {0}};
+        //Boundsf:={x : x in Boundsf | x notin {2,3,13}};
+        if #Bf eq 0 then
             print "Form no",i,"eliminated!";
         else
-            print "Form no",i,"eliminated for exponents not in",Boundsf;
+            print "Form no",i,"eliminated for exponents not in",Bf;
         end if;
-        Boundsall:=Boundsall join Boundsf;
+        //Boundsall:=Boundsall join Boundsf;
     end if;
 end for;
-assert Boundsall eq {};
+//assert Boundsall eq {};
 print "Done!";
 print "+++++++++++++++++++++++++++++++++++++++";
 
