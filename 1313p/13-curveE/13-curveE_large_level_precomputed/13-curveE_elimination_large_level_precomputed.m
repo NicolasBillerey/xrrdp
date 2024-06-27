@@ -1,6 +1,9 @@
 /*
 
-This file contains the computations to prove Proposition 9.
+In this file we prove Proposition 9 in the 'large' level case, i.e., for N2 = 2^4*w^2.
+To speed up the calculation, we have precomputed the coefficients of the 426 newforms of that level
+at prime ideals of norm <= 200.
+They are stored in the file 13-curveE_Newforms_large_level.out.
 
 */
 
