@@ -6,7 +6,7 @@ This file contains the computations to prove Theorem 2.
 
 
 load "13-curveF.m";
-load "13-curveE.m";
+load "../13-curveE/13-curveE.m";
 
 I2:=Factorization(2*OK)[1,1];
 I3:=Factorization(3*OK)[1,1];
@@ -285,7 +285,7 @@ assert #ResidueClassField(P) eq 5;
 
 
 
-print "We check that level raising cannot occur at q=19, so that we can only care about the mod P congruence in the case of good reduction.";
+print "We check that level raising cannot occur at q = 19, so that we can only care about the mod P congruence in the case of good reduction.";
 Q:=Factorization(19*OK)[1,1];
 assert Valuation(HeckeEigenvalue(f13,Q)^2 - (Norm(Q) + 1)^2,P) eq 0;
 print "Done!";
