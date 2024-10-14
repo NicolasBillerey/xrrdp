@@ -4,7 +4,7 @@ Electronic resources for the paper `A multi-Frey approach to Fermat equations of
 
 Remark: The programs were run using Magma V2.28-9 either on a 2.35/3.35 Ghz 32 core AMD EPYC 7452 machine with 512 Gb from Laboratoire de Mathématiques Blaise Pascal in Université Clermont Auvergne (for the longer computations; e.g., the proof of Proposition 9 in the "large" level case) or on a personal computer.
 
-Last modifications: Jun 27, 2024
+Last modifications: Oct 14, 2024
 
 ********************************
 Part I - signature (5,5,p)
