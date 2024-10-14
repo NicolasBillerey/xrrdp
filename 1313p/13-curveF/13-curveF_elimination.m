@@ -206,8 +206,8 @@ BoundF(forms111,[5,7,11,17,31]);
 
 
 print "";
-print "The primes p = 5 survives for forms no 6, 9, 10, 13.";
-print "The primes p = 11 survives for forms no 6, 9, 10, 13 and 11, 15 respectively.";
+print "The prime p = 5 survives for forms no 6, 9, 10, 13.";
+print "The prime p = 11 survives for forms no 6, 9, 10, 13 and 11, 15 respectively.";
 print "";
 print "We use refined elimination to deal with these remaining forms/exponents";
 
